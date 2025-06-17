@@ -204,7 +204,7 @@ Voevodsky's univalence axiom states that equality of types is equivalent to thei
 
 Applied to physics, this means:
 
-$$\text{Physical\_Law} \cong \text{Mathematical\_Proof}$$
+$$\text{Physical Law} \cong \text{Mathematical Proof}$$
 
 Two physical theories making identical predictions about all possible experiments are literally the same theory. This resolves the underdetermination problem in philosophy of science.
 
